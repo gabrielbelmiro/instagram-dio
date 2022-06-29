@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio DIO - Recriando a página do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório do Desafio DIO - Recriando a página do Instagram
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+## 🚀 Let's create, with DIO and Santander! 🚀
